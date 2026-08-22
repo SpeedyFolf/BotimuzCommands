@@ -1239,4 +1239,32 @@
 			<response usename="true">see you later alligator</response>
 		</responses>
 	</command>
+	<command>
+		<name>GTA VI leaks</name>
+		<requiredwords>
+			<group>
+				<word wholeword="true">bot</word>
+				<word>botimuz</word>
+				<word wholeword="true">has</word>
+				<word>know</word>
+				<word>heard</word>
+				<word>discuss</word>
+			</group>
+			<group>
+				<word>GTA</word>
+			</group>
+			<group>
+				<word>6</word>
+				<word>VI</word>
+				<word>six</word>
+			</group>
+			<group>
+				<word>leak</word>
+				<word>leek</word>
+			</group>
+		</requiredwords>
+		<responses>
+			<response>Josh'd reather not engage with any GTA VI leaks on stream, since it would get repetitive. </response>
+		</resonses>
+	</command>
 </commands>
