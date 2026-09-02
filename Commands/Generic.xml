@@ -738,7 +738,7 @@
 		</responses>
 	</command> -->
 
-	<command>
+	<!-- <command>
 		<name>GDQ Gamescom when</name>
 		<maxWords>15</maxWords>
 		<requiredwords>
@@ -772,7 +772,7 @@
 		<responses>
 			<response>Josh will be attending Gamescom 2026 in late August and running SA 69/70 Stunt Jumps at the GDQ booth. See the schedule at https://gamesdonequick.com/schedule/67 and watch at https://twitch.tv/gamesdonequick</response>
 		</responses>
-	</command>
+	</command> -->
 
 	<command>
 		<name>GTAM when</name>
