@@ -519,7 +519,7 @@
 		</responses>
 	</command>
 
-<!-- 	<command>
+ 	<command>
 		<name>WHEN JDQ</name>
 		<maxWords>15</maxWords>
 		<requiredwords>
@@ -553,9 +553,9 @@
 			</group>
 		</unwantedwords>
 		<responses>
-			<response>Josh Done Quick is a five day solo marathon run by Josh! Starting 4th September! Full schedule https://horaro.org/jdq/six</response>
+			<response>Josh Done Quick is a five day solo marathon run by Josh! Starting 8th September and going until 13th September! The schedule is not yet available.</response>
 		</responses>
-	</command> -->
+	</command>
 
 	<command>
 		<name>Meaning of life</name>
