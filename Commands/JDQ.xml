@@ -31,10 +31,11 @@
 			</group>
 		</unwantedwords>
 		<responses>
-			<response>joshDoneQuick Josh Done Quick is a six day solo marathon run by Josh! Schedule and details: https://horaro.org/jdq/xxv joshDoneQuick</response>
+			<response>joshDoneQuick Josh Done Quick is a six day solo marathon run by Josh! Schedule and details: https://horaro.net/jdq/rggm joshDoneQuick</response>
 		</responses>
 	</command>
 
+	<!--
 	<command>
 		<name>Stickers</name>
 		<maxWords>15</maxWords>
@@ -51,7 +52,7 @@
 			</group>
 		</requiredwords>
 		<responses>
-			<response>Donate at least £10 in one go to be entered to win a pack of Joshimuz stickers! Details: https://horaro.org/jdq/xxv</response>
+			<response>Donate at least £10 in one go to be entered to win a pack of Joshimuz stickers! Details: https://horaro.net/jdq/rggm</response>
 		</responses>
 	</command>
 
@@ -72,7 +73,7 @@
 			</group>
 		</requiredwords>
 		<responses>
-			<response>Donate with either #Random or #Chat in your message to put your money towards the final run bidwar! Details: https://horaro.org/jdq/xxv</response>
+			<response>Donate with either #Random or #Chat in your message to put your money towards the final run bidwar! Details: https://horaro.net/jdq/rggm</response>
 		</responses>
 	</command>
 
@@ -111,13 +112,16 @@
 			<response>joshDoneQuick You can donate at https://donate.joshimuz.com to win many different prizes! You can also include #Random or #Chat to influence the Chaos Mod Bidwar. joshDoneQuick</response>
 		</responses>
 	</command>
+	-->
 
 	<command>
 		<name>Timed JDQ Spam</name>
 		<responses usename="false">
-			<response weighting="2">joshDoneQuick Josh Done Quick is a six day solo marathon run by Josh! Schedule and details: https://horaro.org/jdq/xxv joshDoneQuick</response>
-			<response>Donate at least £10 in one go to be entered to win a pack of Joshimuz stickers! Details: https://horaro.org/jdq/xxv</response>
-			<response>Donate with either #Random or #Chat in your message to put your money towards the final run bidwar! Details: https://horaro.org/jdq/xxv</response>
+			<response weighting="2">joshDoneQuick Josh Done Quick is a six day solo marathon run by Josh! Schedule and details: https://horaro.net/jdq/rggm joshDoneQuick</response>
+			<response>Donate or sub to help us reach various goals! Want to see Josh finish the lost RGGM episodes? Details: https://horaro.net/jdq/rggm joshDoneQuick</response>
+			<response>Donate or sub to help us reach various goals! Want to see Hot Coffee in San Andreas? Details: https://horaro.net/jdq/rggm joshDoneQuick</response>
+			<response>All memberships and merch is discounted by 30% on joshRomek Joshimuz.com! Details: https://horaro.net/jdq/rggm joshDoneQuick</response>
+			<response>joshDoneQuick Top 10 gift sub givers get an exclusive PERMANENT badge on my channel! joshDoneQuick</response>
 		</responses>
 		<dataTrigger type="timer">600-720</dataTrigger>
 	</command>
